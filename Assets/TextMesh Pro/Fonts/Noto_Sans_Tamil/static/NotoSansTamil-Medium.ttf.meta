@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 8f75d0a668cc3f14bbaf975d360a5ff3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Noto Sans Tamil
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b82ed7b28ea5379459caeb1fbb64f9a1, type: 3}
+  - {fileID: 12800000, guid: 6dbe1a92e94daac439fa35bbb6bccbba, type: 3}
+  - {fileID: 12800000, guid: 04775c1ae92cda445abd996fb9cb972b, type: 3}
+  - {fileID: 12800000, guid: f82020f47fefb1d4281b6e4dcaa50ad5, type: 3}
+  - {fileID: 12800000, guid: 342730dee943f9f48ab4844fb51912c1, type: 3}
+  - {fileID: 12800000, guid: 69c39c024f541f44283435ca476f4dbb, type: 3}
+  - {fileID: 12800000, guid: 981f935d917c3964db7efacbbdd59baf, type: 3}
+  - {fileID: 12800000, guid: 6393644a7ad829a4b827cbd2d73242ec, type: 3}
+  - {fileID: 12800000, guid: b4b448193a39d1146810c1a49f7847f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
